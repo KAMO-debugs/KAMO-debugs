@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KAMO-debugs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KAMO-debugs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
