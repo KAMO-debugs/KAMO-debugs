@@ -35,4 +35,4 @@
 ### 📬 Connect With Me
 * **LinkedIn:** [linkedin.com/in/kamogelo-nondula](https://www.linkedin.com/in/kamogelo-nondula)
 * **Kaggle:** [kaggle.com/kamogelonondula](https://www.kaggle.com/kamogelonondula)
-* **Credly:** [https://www.credly.com/users/kamogelo-nondula](https://www.credly.com/users/kamogelo-nondula)
+* **Credly Badges:** [Verified Profile](https://www.credly.com/users/kamogelo-nondula)
